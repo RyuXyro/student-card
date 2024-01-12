@@ -36,6 +36,7 @@ h2.img {
 
 .list {
     list-style-type: disc;
+    margin-left: -16px;
     margin-bottom: 50px;
     text-align: left;
 }
