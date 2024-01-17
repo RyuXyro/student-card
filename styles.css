@@ -25,13 +25,8 @@ h1.name {
     text-align: center;
 }
 
-h2.img {
-    color: black;
-    text-align: center;
-    align-items: center;
-    align-self: center;
-    align-content: center;
-    padding-left: 500px;
+.img {
+    padding-left: 18%;
 }
 
 .list {
